@@ -1,5 +1,5 @@
 {
-  "name": "icelater-sunucu-kopyalama",
+  "name": "nuekkis-sunucu-kopyalama",
   "version": "1.0.0",
   "description": "Eris ile kullanıcı token’ı üzerinden guild klonlama (self‐bot)",
   "main": "index.js",
